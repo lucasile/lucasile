@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TS and ExpressJS**
 
-- 👨‍💻 All of my projects are available at [github.com/lucasile](github.com/lucasile)
+- 👨‍💻 Most of my public projects are available at [github](https://github.com/lucasile)
 
 - 💬 Ask me about **Java, Python, C#, Unity**
 
