@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasile&label=Profile%20views&color=0e75b6&style=flat" alt="lucasile" /> </p>
 
-- 🔭 I’m currently working on [Anime Scheduler.](https://github.com/lucasile/AnimeScheduler)
-
-- 🌱 I’m currently learning **TS and ExpressJS**
+- 🌱 I’m currently learning **NextJS and TRPC**
 
 - 👨‍💻 Most of my public projects are available at [github](https://github.com/lucasile)
 
 - 💬 Ask me about **Java, Python, C#, Unity**
-
-- 📫 How to reach me **devnutellaftw@gmail.com**
-
-- ⚡ Fun fact **I play LoL!**
 
 
 <h3 align="left">Languages and Tools:</h3>
